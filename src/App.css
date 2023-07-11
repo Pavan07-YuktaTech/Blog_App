@@ -1,0 +1,18 @@
+.Link{
+    font-size: medium;
+    color: grey;
+    text-decoration: none;
+
+}
+
+#img{
+    position: fixed;
+    z-index: -1;
+    left:0;
+    top:0; 
+    width: 100%;
+}
+
+.Link{
+    color:rgb(124, 125, 126);
+}
